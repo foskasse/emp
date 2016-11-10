@@ -5,7 +5,7 @@ include_once("simple_html_dom.php");
 // set target url to crawl
 $url = "https://www.einforma.pt/novas-empresas"; // change this
 
-// open the web page
+// op en the web page
 $html = new simple_html_dom();
 $html->load_file($url);
 
