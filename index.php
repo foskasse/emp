@@ -2,7 +2,7 @@
 
 include_once("simple_html_dom.php");
 
-// set target url to crawl
+// se t target url to crawl
 $url = "https://www.einforma.pt/novas-empresas"; // change this
 
 // op en the web page
